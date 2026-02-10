@@ -1,4 +1,110 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Awakened Soulfire removed.
+Invasion of Arkhos removed.
+
+Broken Moor
+
+Comet 76
+
+Concrete Jungle
+
+Coral Strands
+
+Dragon Waylines
+
+Dreamrow Ruins
+
+Eregion Shadow
+
+Float Mountains
+
+Fungi Canopy
+
+Jade Palace
+
+Jupiter Grounds
+
+Morningstar Crag
+
+Orian Woodlands
+
+Pure Icelands
+
+Wild Mounds
+
+Preem, The Everything
+
+Zaero, The Void
+
+Creal, The False Avatar
+
+Dreim, The Typhoon
+
+Eiren, The Stable
+
+Ganshaw, The Truth
+
+Ill' Omen, The Spirit
+
+Maliun, The Smog
+
+Nine, The Many
+
+Orthos, The Tempest
+
+Seergost, the Flesh
+
+Triem, The Affliction
+
+Unis, The Undisturbed
+
+Whirl, The Fierce
+
+Nashd, Preem's Carver
+
+Curse of Betrayal
+
+Trelin, The Everwake
+
+H, The Pure
+
+Halberd, The Scorched
+
+Nidn, The Counsil
+
+Viktos, The Mind
+
+Lorn, The Hunger
+
+Wia, The True Avatar
+
+Isul, The Fates
+
+Rein, The Stark
+
+Jyce, The Lost
+
+Urz, The First
+
+Angmar, The Bladed
+
+Oloo, The United
+
+Balion, The Empty
+
+Seer, The Timeless
+
+Fal, The Alone
+
+Titan, The Ageless
+
+Reise, The Headcutter
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
