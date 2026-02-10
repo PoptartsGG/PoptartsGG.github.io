@@ -1,0 +1,560 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Awakened Soulfire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Kindred Enchantment — Aura Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/0.png"
+			}
+		},
+		{
+			"name": "Broken Moor",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Swamp Island",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/1.png"
+			}
+		},
+		{
+			"name": "Comet 76",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Waste Plains",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/2.png"
+			}
+		},
+		{
+			"name": "Concrete Jungle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Waste Forest",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/3.png"
+			}
+		},
+		{
+			"name": "Coral Strands",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/4.png"
+			}
+		},
+		{
+			"name": "Dragon Waylines",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains Forest",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/5.png"
+			}
+		},
+		{
+			"name": "Dreamrow Ruins",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Waste Swamp",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/6.png"
+			}
+		},
+		{
+			"name": "Eregion Shadow",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/7.png"
+			}
+		},
+		{
+			"name": "Float Mountains",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Moutain Plains",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/8.png"
+			}
+		},
+		{
+			"name": "Fungi Canopy",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/9.png"
+			}
+		},
+		{
+			"name": "Jade Palace",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/10.png"
+			}
+		},
+		{
+			"name": "Jupiter Grounds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Waste Mountain",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/11.png"
+			}
+		},
+		{
+			"name": "Morningstar Crag",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/12.png"
+			}
+		},
+		{
+			"name": "Orian Woodlands",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/13.png"
+			}
+		},
+		{
+			"name": "Pure Icelands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Waste Island",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/14.png"
+			}
+		},
+		{
+			"name": "Wild Mounds",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/15.png"
+			}
+		},
+		{
+			"name": "Preem, The Everything",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Elder Aspect",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/16.png"
+			}
+		},
+		{
+			"name": "Zaero, The Void",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Elder Aspect",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/17.png"
+			}
+		},
+		{
+			"name": "Creal, The False Avatar",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Kindred Enchantment — Avatar",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/18.png"
+			}
+		},
+		{
+			"name": "Dreim, The Typhoon",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Kindred Enchantment — Avatar",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/19.png"
+			}
+		},
+		{
+			"name": "Eiren, The Stable",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Kindred Enchantment — Avatar Aura",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/20.png"
+			}
+		},
+		{
+			"name": "Ganshaw, The Truth",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Kindred Enchantment — Avatar Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/21.png"
+			}
+		},
+		{
+			"name": "Ill' Omen, The Spirit",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Kindred Enchantment — Avatar",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/22.png"
+			}
+		},
+		{
+			"name": "Invasion of Arkhos",
+			"rarity": "rare",
+			"mana_cost": "{C}{B}{B}",
+			"type": "Battle — Siege",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/23.png"
+			}
+		},
+		{
+			"name": "Maliun, The Smog",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Kindred Enchantment — Avatar Aura",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/24.png"
+			}
+		},
+		{
+			"name": "Nine, The Many",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{U}",
+			"type": "Kindred Enchantment — Avatar",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/25.png"
+			}
+		},
+		{
+			"name": "Orthos, The Tempest",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Kindred Enchantment — Avatar Aura",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/26.png"
+			}
+		},
+		{
+			"name": "Seergost, the Flesh",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Kindred Enchantment — Avatar",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/27.png"
+			}
+		},
+		{
+			"name": "Triem, The Affliction",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{G}",
+			"type": "Kindred Enchantment — Avatar Aura",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/28.png"
+			}
+		},
+		{
+			"name": "Unis, The Undisturbed",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Kindred Enchantment — Avatar",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/29.png"
+			}
+		},
+		{
+			"name": "Whirl, The Fierce",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Kindred Enchantment — Avatar Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/30.png"
+			}
+		},
+		{
+			"name": "Nashd, Preem's Carver",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/31.png"
+			}
+		},
+		{
+			"name": "Curse of Betrayal",
+			"rarity": "special",
+			"mana_cost": "{5}{C}{B}",
+			"type": "Legendary Enchantment — Aura Curse",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/32.png"
+			}
+		},
+		{
+			"name": "Trelin, The Everwake",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{B}",
+			"type": "Kindred Enchantment — Avatar",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/33.png"
+			}
+		},
+		{
+			"name": "H, The Pure",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{W}",
+			"type": "Kindred Enchantment — Avatar",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/34.png"
+			}
+		},
+		{
+			"name": "Halberd, The Scorched",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{R}",
+			"type": "Kindred Enchantment — Avatar Aura",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/35.png"
+			}
+		},
+		{
+			"name": "Nidn, The Counsil",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Legendary Kindred Planeswalker — Elder Nidn",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/36.png"
+			}
+		},
+		{
+			"name": "Viktos, The Mind",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/37.png"
+			}
+		},
+		{
+			"name": "Lorn, The Hunger",
+			"rarity": "special",
+			"mana_cost": "{X}{1}{R}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/38.png"
+			}
+		},
+		{
+			"name": "Wia, The True Avatar",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/39.png"
+			}
+		},
+		{
+			"name": "Isul, The Fates",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/40.png"
+			}
+		},
+		{
+			"name": "Rein, The Stark",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/41.png"
+			}
+		},
+		{
+			"name": "Jyce, The Lost",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/42.png"
+			}
+		},
+		{
+			"name": "Urz, The First",
+			"rarity": "special",
+			"mana_cost": "{5}{C}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/43.png"
+			}
+		},
+		{
+			"name": "Angmar, The Bladed",
+			"rarity": "common",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/44.png"
+			}
+		},
+		{
+			"name": "Oloo, The United",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/45.png"
+			}
+		},
+		{
+			"name": "Balion, The Empty",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Kindred Enchantment — Avatar Aura",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/46.png"
+			}
+		},
+		{
+			"name": "Seer, The Timeless",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legenedary Creature — Elder Avatar",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/47.png"
+			}
+		},
+		{
+			"name": "Fal, The Alone",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/48.png"
+			}
+		},
+		{
+			"name": "Titan, The Ageless",
+			"rarity": "special",
+			"mana_cost": "{8}{G}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/49.png"
+			}
+		},
+		{
+			"name": "Reise, The Headcutter",
+			"rarity": "special",
+			"mana_cost": "{8}{R}{W}",
+			"type": "Legendary Creature — Elder Avatar",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/50.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Awakened Soulfire
+	1 Broken Moor
+	1 Coral Strands
+	1 Dragon Waylines
+	1 Eregion Shadow
+	1 Float Mountains
+	1 Fungi Canopy
+	1 Jade Palace
+	1 Morningstar Crag
+	1 Orian Woodlands
+	1 Wild Mounds
+	2 Invasion of Arkhos
+[uncommon(3)]
+[common(6)]
+	8 Angmar, The Bladed
+[common | masterpiece(1)]
+	8 Angmar, The Bladed
+[foil(1)]
+	2 Awakened Soulfire
+	1 Broken Moor
+	1 Coral Strands
+	1 Dragon Waylines
+	1 Eregion Shadow
+	1 Float Mountains
+	1 Fungi Canopy
+	1 Jade Palace
+	1 Morningstar Crag
+	1 Orian Woodlands
+	1 Wild Mounds
+	2 Invasion of Arkhos
+	12 Angmar, The Bladed
+[wildcard(1)]
+	7 Awakened Soulfire
+	4 Broken Moor
+	4 Coral Strands
+	4 Dragon Waylines
+	4 Eregion Shadow
+	4 Float Mountains
+	4 Fungi Canopy
+	4 Jade Palace
+	4 Morningstar Crag
+	4 Orian Woodlands
+	4 Wild Mounds
+	7 Invasion of Arkhos
+	6 Angmar, The Bladed
