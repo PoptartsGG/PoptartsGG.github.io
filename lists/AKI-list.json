@@ -1,0 +1,408 @@
+﻿[
+    {
+        "card_name": "Enols, the Hive",
+        "number": 3,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Nine, the Many",
+        "number": 7,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Angmar, the Bladed",
+        "number": 9,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Halberd, the Scorched",
+        "number": 13,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Oloo, the United",
+        "number": 15,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "H, the Pure",
+        "number": 4,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Viktos, the Mind",
+        "number": 8,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Curse of Betrayal",
+        "number": 10,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Lorn, the Hunger",
+        "number": 14,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Titan, the Ageless",
+        "number": 16,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Nashd, Preem's Carver",
+        "number": 5,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Trelin, the Everwake",
+        "number": 11,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Triem, the Affliction",
+        "number": 17,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Preem, the Everything",
+        "number": 6,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Zaero, the Void",
+        "number": 12,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Eleas, the Hive",
+        "number": 21,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Isul, the Fates",
+        "number": 25,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Whirl, the Fierce",
+        "number": 33,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Ganshaw, the Truth",
+        "number": 23,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Creal, the False Avatar",
+        "number": 18,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Seergost, the Flesh",
+        "number": 31,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Unis, the Undisturbed",
+        "number": 32,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wia, the True Avatar",
+        "number": 34,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Zendikar's Soul",
+        "number": 35,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ill' Omen, the Spirit",
+        "number": 24,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Fal, the Alone",
+        "number": 22,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Eiren, the Stable",
+        "number": 20,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Maliun, the Smog",
+        "number": 27,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Dreim, the Typhoon",
+        "number": 19,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Orthos, the Tempest",
+        "number": 28,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rein, the Stark",
+        "number": 29,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Jyce, the Lost",
+        "number": 26,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reise, the Headcutter",
+        "number": 30,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Nidn, the Counsil",
+        "number": 1,
+        "shape": "planeswalker",
+        "set": "AKI",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Urz, the First",
+        "number": 2,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Balion, the Empty",
+        "number": 50,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Seer, the Timeless",
+        "number": 51,
+        "shape": "normal",
+        "set": "AKI",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,4 +1,93 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Preem, the Everything added.
+Zaero, the Void added.
+Creal, the False Avatar added.
+Dreim, the Typhoon added.
+Eiren, the Stable added.
+Ganshaw, the Truth added.
+Ill' Omen, the Spirit added.
+Maliun, the Smog added.
+Nine, the Many added.
+Orthos, the Tempest added.
+Triem, the Affliction added.
+Unis, the Undisturbed added.
+Whirl, the Fierce added.
+Trelin, the Everwake added.
+H, the Pure added.
+Halberd, the Scorched added.
+Nidn, the Counsil added.
+Viktos, the Mind added.
+Lorn, the Hunger added.
+Wia, the True Avatar added.
+Isul, the Fates added.
+Rein, the Stark added.
+Jyce, the Lost added.
+Urz, the First added.
+Angmar, the Bladed added.
+Oloo, the United added.
+Balion, the Empty added.
+Seer, the Timeless added.
+Fal, the Alone added.
+Titan, the Ageless added.
+Reise, the Headcutter added.
+Zendikar's Soul added.
+Enols, the Hive added.
+Eleas, the Hive added.
+
+Broken Moor removed.
+Comet 76 removed.
+Concrete Jungle removed.
+Coral Strands removed.
+Dragon Waylines removed.
+Dreamrow Ruins removed.
+Eregion Shadow removed.
+Float Mountains removed.
+Fungi Canopy removed.
+Jade Palace removed.
+Jupiter Grounds removed.
+Morningstar Crag removed.
+Orian Woodlands removed.
+Pure Icelands removed.
+Wild Mounds removed.
+Preem, The Everything removed.
+Zaero, The Void removed.
+Creal, The False Avatar removed.
+Dreim, The Typhoon removed.
+Eiren, The Stable removed.
+Ganshaw, The Truth removed.
+Ill' Omen, The Spirit removed.
+Maliun, The Smog removed.
+Nine, The Many removed.
+Orthos, The Tempest removed.
+Triem, The Affliction removed.
+Unis, The Undisturbed removed.
+Whirl, The Fierce removed.
+Trelin, The Everwake removed.
+H, The Pure removed.
+Halberd, The Scorched removed.
+Nidn, The Counsil removed.
+Viktos, The Mind removed.
+Lorn, The Hunger removed.
+Wia, The True Avatar removed.
+Isul, The Fates removed.
+Rein, The Stark removed.
+Jyce, The Lost removed.
+Urz, The First removed.
+Angmar, The Bladed removed.
+Oloo, The United removed.
+Balion, The Empty removed.
+Seer, The Timeless removed.
+Fal, The Alone removed.
+Titan, The Ageless removed.
+Reise, The Headcutter removed.
+
+Curse of Betrayal
+cost: {5}{C}{B} => {5}{B}
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
