@@ -1,4 +1,246 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Broken Moor added.
+Comet 76 added.
+Concrete Jungle added.
+Coral Strands added.
+Dragon Waylines added.
+Dreamrow Ruins added.
+Eregion Shadow added.
+Float Mountains added.
+Fungi Canopy added.
+Jade Palace added.
+Jupiter Grounds added.
+Morningstar Crag added.
+Orian Woodlands added.
+Pure Icelands added.
+Wild Mounds added.
+Vex, the Mind added.
+Ulemus, the Lost added.
+Taking a Peek added.
+Otterly Adorable added.
+Story Tell added.
+Regrow the Wilds added.
+Blazing Glory added.
+Mers, Ghost Shot added.
+Hilm of the Pack added.
+
+Viktos, the Mind removed.
+Jyce, the Lost removed.
+Zendikar's Soul removed.
+Enols, the Hive removed.
+Eleas, the Hive removed.
+
+Preem, the Everything
+rules_text: Whenever you cast an Equipment spell you may pay X , where X is that spell's mana value, if you do create X 1/1 white Wolf creature tokens. => Whenever you cast an Equipment spell you may pay X , where X is that spell's mana value, if you do create X 1/1 white Wolf creature tokens. 
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Zaero, the Void
+rules_text: {C}, Sacrifice a Permanent: You may cast an Aura from your hand with mana value X or less without paying its mana costs, where X is 2 plus the sacrificed Permanent's mana value. => {C}, Sacrifice a Permanent: You may cast an Aura from your hand with mana value X or less without paying its mana costs, where X is 2 plus the sacrificed Permanent's mana value.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Creal, the False Avatar
+type: Kindred Enchantment — Avatar => Legendary Enchantment — Aspect
+rules_text: Whenever a lore counter is put on a permanent you control, put a +1/+1 counter on up to one target creature.
+Permanents with counters on them have vigilance.
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Whenever a lore counter is put on a permanent you control, put a +1/+1 counter on up to one target creature.
+Permanents with counters on them have vigilance.
+
+Dreim, the Typhoon
+type: Kindred Enchantment — Avatar => Legendary Enchantment — Aspect
+rules_text: Spells you cast cost {1} less to cast.
+Creatures you control with counters on them have evolve. [i](Whenever a creature you control enters, if that creature has greater power or toughness than that creature, put a +1/+1 counter on that creature.)[/i]
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Spells you cast cost {1} less to cast.
+Creatures you control with counters on them have evolve. [i](Whenever a creature you control enters, if that creature has greater power or toughness than that creature, put a +1/+1 counter on that creature.)[/i]
+
+Eiren, the Stable
+type: Kindred Enchantment — Avatar Aura => Legendary Enchantment — Aspect
+cost: {4}{B}{G} => {3}{B}{G}
+rules_text: Enchant commander you control
+Enchanted creature gets +10/+6 and has trample
+[i]Landfall[/i] — Whenever a land you control enters the battlefield, return a creature card with mana value X or less, where X is the number of lands you control.
+Aspect [i](You may have two commanders if the other is a Elder Aspect.)[/i] => Creatures you control get +1/+1 for each creature card in your graveyard.
+Sacrifice a creature: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Ganshaw, the Truth
+type: Kindred Enchantment — Avatar Aura => Legendary Enchantment — Aspect
+cost: {2}{R}{G} => {R}{G}
+rules_text: Enchant commander you control
+Enchanted creature gets +3/+1
+Whenever a Creature with power greater than its toughness attacks, exile the top card of your library, you may cast it until end of turn.
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Whenever a creature with power 4 or greater becomes blocked, create a treasure token.
+{2}: Target creature you control must be blocked this turn if able.
+
+Ill' Omen, the Spirit
+type: Kindred Enchantment — Avatar => Legendary Enchantment — Aspect
+rules_text: Whenever a modified creature you control dies, create a 1/1 black spirit creature token. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Creature cards with mana value 4 or less in your graveyard have dredge 2. [i](If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)[/i]
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => At the beginning of your upkeep, look at the top card of your library. You may reveal that card if it has a mana value of 3 of less. If you do, add {W}{B} and put it into your graveyard. If you don't reveal it, put it into your hand.
+
+Maliun, the Smog
+type: Kindred Enchantment — Avatar Aura => Legendary Enchantment — Aspect
+rules_text: Enchant commander you control
+Whenever you cast a noncreature spell, create X 1/1 white Wolf tokens, where X is that spells mana value.
+Attacking modified creatures you control get +1/+0 and have first strike. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Enchant commander you control
+Whenever you cast a noncreature spell, create X 1/1 white Wolf tokens, where X is that spells mana value.
+Attacking modified creatures you control get +1/+0 and have first strike. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Nine, the Many
+type: Kindred Enchantment — Avatar => Legendary Enchantment — Aspect
+rules_text: Whenever you cast a spell that targets a permanent you control, you may pay {C}{U}. If you do, Create an Absolvement. [i](It's an enchantment Aura with “Enchanted creature gets +1/+0 for each enchantment you control.”)[/i] Attach it to target creature you control.
+Modified creatures you control have changeling. [i](Equipment, Auras you control, and counters are modifications. This card is every creature type.)[/i]
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Whenever you cast a spell that targets a permanent you control, you may pay {C}{U}. If you do, Create an Absolvement. [i](It's an enchantment Aura with “Enchanted creature gets +1/+0 for each enchantment you control.”)[/i] Attach it to target creature you control.
+Modified creatures you control have changeling. [i](Equipment, Auras you control, and counters are modifications. This card is every creature type.)[/i]
+
+Orthos, the Tempest
+type: Kindred Enchantment — Avatar Aura => Legendary Enchantment — Aspect Aura
+rules_text: Enchant commander you control
+Modified creatures you control have prowess. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Enchant commander you control
+Modified creatures you control have prowess. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Seergost, the Flesh
+type: Kindred Enchantment — Avatar => Legendary Enchantment — Aspect
+cost: {1}{W}{U} => {W}{U}
+rules_text: Whenever a creature token you control becomes tapped you may scry 2. Do this only once each turn.
+Tap an untapped nontoken creature you control: Draw a card.
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => If an effect would create one or more tokens under your control, you may create that many clue tokens instead.
+{T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Triem, the Affliction
+type: Kindred Enchantment — Avatar Aura => Legendary Enchantment — Aspect
+rules_text: Enchant commander you control
+Whenever a -1/-1 counter is put on a creature, you may put a land from your hand onto the battlefield tapped. Do this only once each turn.
+Modified creatures have wither. [i](Equipment, Auras you control, and counters are modifications. This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Whenever a -1/-1 counter is put on a creature, you may put a land from your hand onto the battlefield tapped. Do this only once each turn.
+Modified creatures have wither. [i](Equipment, Auras you control, and counters are modifications. This deals damage to creatures in the form of -1/-1 counters.)[/i]
+
+Unis, the Undisturbed
+type: Kindred Enchantment — Avatar => Legendary Enchantment — Aspect
+cost: {1}{U}{B} => {2}{U}{B}
+rules_text: Instant cards in your graveyard have Dredge 2. [i](If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)[/i]
+Whenever you cast a Sorcery spell, you may surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => If you would surveil, you may instead exile an instant card from your graveyard. When do you, copy that card. You may cast the copy this turn.
+Whenever you cast a sorcery spell, you may surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Whirl, the Fierce
+type: Kindred Enchantment — Avatar Aura => Kindred Enchantment — Aspect Aura
+rules_text: Enchant commander you control
+Other creatures you control are Dragons in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Enchant commander you control
+Other creatures you control are Dragons in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.
+
+Trelin, the Everwake
+type: Kindred Enchantment — Avatar => Legendary Enchantment — Aspect
+rules_text: Spells you cast have bargain. [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Whenever you a spell, if it was bargained, Add: {B}.
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Spells you cast have bargain. [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Whenever you a spell, if it was bargained, Add: {B}.
+
+H, the Pure
+type: Kindred Enchantment — Avatar => Legendary Enchantment — Aspect
+rules_text: Whenever a creature you control with power greater than its base power enters, you may exile a card from your hand, if you do draw two cards. Do this only once per turn.
+Creature tokens you control get +1/+1 for each card you own in exile.
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Whenever a creature you control with power greater than its base power enters, you may exile a card from your hand, if you do draw two cards. Do this only once per turn.
+Creature tokens you control get +1/+1 for each card you own in exile.
+
+Halberd, the Scorched
+type: Kindred Enchantment — Avatar Aura => Legendary Enchantment — Aspect Aura
+rules_text: Enchant commander you control
+Enchanted creature gets +2/+0 and has “Whenever enchanted creature attacks, exile the top two card of your library, you may play them for as long as they are exiled.”
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => Enchant commander you control
+Enchanted creature gets +2/+0 and has “Whenever enchanted creature attacks, exile the top two card of your library, you may play them for as long as they are exiled.”
+
+Nidn, the Counsil
+type: Legendary Kindred Planeswalker — Elder Nidn => Legendary Planeswalker — Nidn
+rules_text: [+2]: Choose a creature type. Draw a card for each permanent you control of that type.
+[0]: Create a 1/1 colorless Shapeshifter creature token with Changeling [i](This card is every creature type.)[/i]
+[-1]: Exile target multicolored permanent.
+Nidn, The Counsil can be your commander. => [+2]: Choose a creature type. Draw a card for each permanent you control of that type.
+[0]: Create a 1/1 colorless Shapeshifter creature token with Changeling [i](This card is every creature type.)[/i]
+[-1]: Exile target multicolored permanent.
+Nidn, The Counsil can be your commander.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+special_text: [+2]: Choose a creature type. Draw a card for each permanent you control of that type.
+[0]: Create a 1/1 colorless Shapeshifter creature token with Changeling [i](This card is every creature type.)[/i]
+[-1]: Exile target multicolored permanent.
+Nidn, The Counsil can be your commander. => [+2]: Choose a creature type. Draw a card for each permanent you control of that type.
+[0]: Create a 1/1 colorless Shapeshifter creature token with Changeling [i](This card is every creature type.)[/i]
+[-1]: Exile target multicolored permanent.
+Nidn, The Counsil can be your commander.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Lorn, the Hunger
+rules_text: When Lorn, The Hunger enters the battlefield, exile the top X cards of your library, you may cast them for as long as they are exiled.
+Whenever you cast a spell from anywhere other than your hand, create a treasure token. => When Lorn, The Hunger enters the battlefield, exile the top X cards of your library, you may cast them for as long as they are exiled.
+Whenever you cast a spell from anywhere other than your hand, create a treasure token.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Wia, the True Avatar
+rules_text: At the beginning of your upkeep, you may remove a lore counter from any number of permanents. If you do, put X +1/+1 counters on target creature, where X is the number of lore counters removed this way. => At the beginning of your upkeep, you may remove a lore counter from any number of permanents. If you do, put X +1/+1 counters on target creature, where X is the number of lore counters removed this way.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Isul, the Fates
+rules_text: At the beginning of your draw step, you may draw an additional card. If you do, mill four cards.
+{C}: {T}, You may cast target instant card from your graveyard until end of turn. If that spell would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i] => At the beginning of your draw step, you may draw an additional card. If you do, mill four cards.
+{C}: {T}, You may cast target instant card from your graveyard until end of turn. If that spell would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Rein, the Stark
+rules_text: Whenever you cast a spell with mana value 4 or greater, create two 2/2 white Wolf creature tokens.
+{T}: Add {R}. => Whenever you cast a spell with mana value 4 or greater, create two 2/2 white Wolf creature tokens.
+{T}: Add {R}.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Urz, the First
+rules_text: At the beginning of your combat phase, up to three target artifacts you control become 4/4 artifact creatures.
+Artifact spells you control have evoke {2}. [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => At the beginning of your combat phase, up to three target artifacts you control become 4/4 artifact creatures.
+Artifact spells you control have evoke {2}. [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Angmar, the Bladed
+rules_text: When Angmar, The Bladed enters the battlefield, sacrifice any number of permanents, then create that many treasure tokens.
+Whenever a player sacrifices a token, you add {B}. => When Angmar, The Bladed enters the battlefield, sacrifice any number of permanents, then create that many treasure tokens.
+Whenever a player sacrifices a token, you add {B}.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i]
+
+Oloo, the United
+rules_text: At the beginning of your end step, you may remove two +1/+1 counters from target permanent you control. If you do, create two 1/1 green Ooze creature tokens.
+{T}: Sacrifice a creature token, put X +1/+1 counters on target creature, where X is the sacrificed token's power. => At the beginning of your end step, you may remove two +1/+1 counters from target permanent you control. If you do, create two 1/1 green Ooze creature tokens.
+{T}: Sacrifice a creature token, put X +1/+1 counters on target creature, where X is the sacrificed token's power.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Balion, the Empty
+type: Kindred Enchantment — Avatar Aura => Legendary Enchantment — Aspect
+rules_text: If Balion, The Empty is your commander, choose a color before the game begins. Balion, The Empty is the chosen color.
+Aspect [i](You may have two commanders if the other is an Elder.)[/i] => If Balion, The Empty is your commander, choose a color before the game begins. Balion, The Empty is the chosen color.
+
+Seer, the Timeless
+rules_text: If Seer, The Timeless is your commander, choose a color before the game begins. Seer, The Timeless is the chosen color. => If Seer, The Timeless is your commander, choose a color before the game begins. Seer, The Timeless is the chosen color.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Fal, the Alone
+rules_text: Prowess
+Instant and sorcery spells you cast have rebound. [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i] => Prowess
+Instant and sorcery spells you cast have rebound. [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Titan, the Ageless
+rules_text: This spell cost {1} less for each creature you control with power 4 or greater.
+Attacking creatures you control that have power 4 or greater get +3/+3 until end of turn. => This spell cost {1} less for each creature you control with power 4 or greater.
+Attacking creatures you control that have power 4 or greater get +3/+3 until end of turn.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Reise, the Headcutter
+rules_text: This spell costs {2} less for each Equipment you control.
+At the beginning of combat on your turn, you may attach any number of target Equipment you control to Reise. => This spell costs {2} less for each Equipment you control.
+At the beginning of combat on your turn, you may attach any number of target Equipment you control to Reise.
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Preem, the Everything added.
