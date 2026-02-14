@@ -5,7 +5,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Swamp Island",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Waste Plains",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Waste Forest",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Plains Forest",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Waste Swamp",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Moutain Plains",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Waste Mountain",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Waste Island",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/14.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/22.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Enchantment — Aspect Aura",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/25.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Kindred Enchantment — Aspect Aura",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/28.png"
 			}
@@ -293,7 +293,7 @@
 		{
 			"name": "Nashd, Preem's Carver",
 			"rarity": "mythic",
-			"mana_cost": "{2}{C}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "4",
 			"image_uris": {
@@ -375,7 +375,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Elder Avatar",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Elder Avatar",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Elder Avatar",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Elder Avatar",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/40.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Enchantment — Aspect",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legenedary Creature — Elder Avatar",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Elder Avatar",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/46.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}{R}{W}",
 			"type": "Legendary Creature — Elder Avatar",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/48.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{G/W}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/51.png"
 			}
@@ -543,9 +543,9 @@
 		{
 			"name": "Mers, Ghost Shot",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}{B}",
+			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/54.png"
 			}
@@ -555,9 +555,19 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Beast",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/55.png"
+			}
+		},
+		{
+			"name": "Asin of the Pack",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Wolf Plant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://PoptartsGG.github.io/sets/AKI-files/img/56.png"
 			}
 		}
 	]
@@ -611,6 +621,7 @@
 	1 Reise, the Headcutter
 	2 Mers, Ghost Shot
 	2 Hilm of the Pack
+	1 Asin of the Pack
 [uncommon(3)]
 [common(6)]
 	8 Taking a Peek
@@ -678,6 +689,7 @@
 	12 Blazing Glory
 	2 Mers, Ghost Shot
 	2 Hilm of the Pack
+	1 Asin of the Pack
 [wildcard(1)]
 	4 Broken Moor
 	4 Comet 76
@@ -732,3 +744,4 @@
 	6 Blazing Glory
 	7 Mers, Ghost Shot
 	7 Hilm of the Pack
+	4 Asin of the Pack

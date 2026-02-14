@@ -1,0 +1,14 @@
+[
+	{ "title": "unc", "cards":  [ "!group bluenoncom" ] },
+	{ "title": "rnc", "cards":  [ "!group rednoncom" ] },
+	{ "title": "gnc", "cards":  [ "!group greennoncom" ] },
+	{ "title": "mnc", "cards":  [ "!group multinoncom" ] },
+	{ "title": "lnc", "cards":  [ "!group landnoncom" ] },
+	{ "title": "cc", "cards":  [ "!group clearcom" ] },
+	{ "title": "wc", "cards":  [ "!group whitecom" ] },
+	{ "title": "uc", "cards":  [ "!group bluecom" ] },
+	{ "title": "bc", "cards":  [ "!group blackcom" ] },
+	{ "title": "rc", "cards":  [ "!group redcom" ] },
+	{ "title": "gc", "cards":  [ "!group greencom" ] },
+	{ "title": "mc", "cards":  [ "!group multiom" ] },
+]

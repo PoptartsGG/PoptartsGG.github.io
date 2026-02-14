@@ -12,7 +12,7 @@
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Swamp Island",
-            "number": 40,
+            "number": 41,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {U}.)[/i]\nBroken Moor enters the battlefield tapped unless you control a flooded land.\n[i]Drown \u2014 [/i]{T}, Put a flood counter on this land.",
@@ -26,14 +26,14 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Comet 76",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Waste Plains",
-            "number": 41,
+            "number": 42,
             "color_identity": "W",
             "cost": "",
             "rules_text": "[i]({T}: Add {C} or {W}.)[/i]\nComet 76 enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -47,14 +47,14 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Concrete Jungle",
             "color": "",
             "rarity": "special",
             "type": "Land \u2014 Waste Forest",
-            "number": 56,
+            "number": 57,
             "color_identity": "G",
             "cost": "",
             "rules_text": "[i]({T}: Add {C} or {G}.)[/i]\nConcrete Jungle enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -68,14 +68,14 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Coral Strands",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Plains Island",
-            "number": 42,
+            "number": 43,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U}.)[/i]\nCoral Strands enters the battlefield tapped unless you control a flooded land.\n[i]Drown \u2014 [/i]{T}, Put a flood counter on this land.",
@@ -89,14 +89,14 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Dragon Waylines",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Plains Forest",
-            "number": 43,
+            "number": 44,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {G}.)[/i]\nDragon Waylines enter the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -110,14 +110,14 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Dreamrow Ruins",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Waste Swamp",
-            "number": 44,
+            "number": 45,
             "color_identity": "B",
             "cost": "",
             "rules_text": "[i]({T}: Add {C} or {B}.)[/i]\nDreamrow Ruins enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -131,14 +131,14 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Eregion Shadow",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Plains Swamp",
-            "number": 45,
+            "number": 46,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B}.)[/i]\nEregion Shadow enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -152,14 +152,14 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Float Mountains",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Moutain Plains",
-            "number": 46,
+            "number": 47,
             "color_identity": "W",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {W}.)[/i]\nFloat Mountains enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -173,14 +173,14 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Fungi Canopy",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Swamp Forest",
-            "number": 47,
+            "number": 48,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G}.)[/i]\nFungi Canopy enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -194,14 +194,14 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Jade Palace",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Island Mountain",
-            "number": 48,
+            "number": 49,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R}.)[/i]\nJade Palace enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -215,14 +215,14 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Jupiter Grounds",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Waste Mountain",
-            "number": 49,
+            "number": 50,
             "color_identity": "R",
             "cost": "",
             "rules_text": "[i]({T}, Add {C} or {R}.)[/i]\nJupiter Grounds enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}, Put a flood counter on this land.",
@@ -236,14 +236,14 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Morningstar Crag",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Mountain Forest",
-            "number": 50,
+            "number": 51,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G}.)[/i]\nMorningstar Crag enters the battlefield tapped unless you control a flooded land.\n[i]Drown \u2014[/i] {T}, Put a flood counter on this land.",
@@ -257,14 +257,14 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Orian Woodlands",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Forest Island",
-            "number": 51,
+            "number": 52,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]([/i]{T}: Add {G} or {U}.)[/i]\nOrian Woodlands enters the battlefield tapped unless you control a flooded land.\n[i][i]Drown \u2014 [/i]{T}: Put a flood counter on this land.",
@@ -278,14 +278,14 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Pure Icelands",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Waste Island",
-            "number": 52,
+            "number": 53,
             "color_identity": "U",
             "cost": "",
             "rules_text": "[i]({T}: Add {C} or {U}.)[/i]\nPure Icelands enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}: Put a flood counter on this land.",
@@ -299,14 +299,14 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Wild Mounds",
             "color": "",
             "rarity": "mythic",
             "type": "Land \u2014 Swamp Mountain",
-            "number": 53,
+            "number": 54,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {B}.)[/i]\nWild Mounds enters the battlefield tapped unless you control a flooded land.\nDrown \u2014 {T}: Put a flood counter on this land.",
@@ -320,7 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": ""
+            "notes": "!group landnoncom"
         },
         {
             "card_name": "Preem, the Everything",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": ""
+            "notes": "!group whitecom"
         },
         {
             "card_name": "Zaero, the Void",
@@ -362,14 +362,14 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": ""
+            "notes": "!group blackcom"
         },
         {
             "card_name": "Creal, the False Avatar",
             "color": "WG",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 21,
+            "number": 22,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Whenever a lore counter is put on a permanent you control, put a +1/+1 counter on up to one target creature.\nPermanents with counters on them have vigilance.",
@@ -383,14 +383,14 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Dreim, the Typhoon",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 22,
+            "number": 23,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Spells you cast cost {1} less to cast.\nCreatures you control with counters on them have evolve. [i](Whenever a creature you control enters, if that creature has greater power or toughness than that creature, put a +1/+1 counter on that creature.)[/i]",
@@ -404,14 +404,14 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Eiren, the Stable",
             "color": "BG",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 23,
+            "number": 24,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
             "rules_text": "Creatures you control get +1/+1 for each creature card in your graveyard.\nSacrifice a creature: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -425,14 +425,14 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Ganshaw, the Truth",
             "color": "RG",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 25,
+            "number": 26,
             "color_identity": "RG",
             "cost": "{R}{G}",
             "rules_text": "Whenever a creature with power 4 or greater becomes blocked, create a treasure token.\n{2}: Target creature you control must be blocked this turn if able.",
@@ -446,17 +446,17 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Ill' Omen, the Spirit",
             "color": "WB",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 27,
+            "number": 28,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card if it has a mana value of 3 of less. If you do, add {W}{B} and put it into your graveyard. If you don't reveal it, put it into your hand.",
+            "rules_text": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If you do, add {W}{B} and put it into your graveyard. If you don't reveal it, put it into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -467,14 +467,14 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Maliun, the Smog",
             "color": "WR",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 29,
+            "number": 30,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "Enchant commander you control\nWhenever you cast a noncreature spell, create X 1/1 white Wolf tokens, where X is that spells mana value.\nAttacking modified creatures you control get +1/+0 and have first strike. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Nine, the Many",
@@ -509,14 +509,14 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Orthos, the Tempest",
             "color": "UR",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect Aura",
-            "number": 31,
+            "number": 32,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Enchant commander you control\nModified creatures you control have prowess. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -530,14 +530,14 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Seergost, the Flesh",
             "color": "WU",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 34,
+            "number": 35,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "If an effect would create one or more tokens under your control, you may create that many clue tokens instead.\n{T}: Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
@@ -551,7 +551,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Triem, the Affliction",
@@ -572,14 +572,14 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": ""
+            "notes": "!group greencom"
         },
         {
             "card_name": "Unis, the Undisturbed",
             "color": "UB",
             "rarity": "mythic",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 36,
+            "number": 37,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "If you would surveil, you may instead exile an instant card from your graveyard. When do you, copy that card. You may cast the copy this turn.\nWhenever you cast a sorcery spell, you may surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -593,14 +593,14 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Whirl, the Fierce",
             "color": "BR",
             "rarity": "mythic",
             "type": "Kindred Enchantment \u2014 Aspect Aura",
-            "number": 37,
+            "number": 38,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Enchant commander you control\nOther creatures you control are Dragons in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.",
@@ -614,7 +614,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Nashd, Preem's Carver",
@@ -623,7 +623,7 @@
             "type": "Legendary Artifact \u2014 Equipment",
             "number": 4,
             "color_identity": "W",
-            "cost": "{2}{C}{W}",
+            "cost": "{3}{W}",
             "rules_text": "Whenever equipped creature attacks, you may reveal an Equipment card from your hand and pay its equip cost. If you do, put it onto the battlefield attached to equipped creature. \nEquipped creature gets +5/+5\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -635,7 +635,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": ""
+            "notes": "!group whitenoncom"
         },
         {
             "card_name": "Curse of Betrayal",
@@ -656,7 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": ""
+            "notes": "!group blacknoncom"
         },
         {
             "card_name": "Trelin, the Everwake",
@@ -677,7 +677,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": ""
+            "notes": "!group blackcom"
         },
         {
             "card_name": "H, the Pure",
@@ -698,7 +698,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": ""
+            "notes": "!group whitecom"
         },
         {
             "card_name": "Halberd, the Scorched",
@@ -719,7 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": ""
+            "notes": "!group redcom"
         },
         {
             "card_name": "Nidn, the Counsil",
@@ -740,7 +740,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": ""
+            "notes": "!group clearcom"
         },
         {
             "card_name": "Vex, the Mind",
@@ -761,7 +761,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": ""
+            "notes": "!group bluecom"
         },
         {
             "card_name": "Lorn, the Hunger",
@@ -782,14 +782,14 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": ""
+            "notes": "!group redcom"
         },
         {
             "card_name": "Wia, the True Avatar",
             "color": "WG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder Avatar",
-            "number": 38,
+            "number": 39,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "At the beginning of your upkeep, you may remove a lore counter from any number of permanents. If you do, put X +1/+1 counters on target creature, where X is the number of lore counters removed this way.\nChoose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]",
@@ -803,17 +803,17 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Isul, the Fates",
             "color": "UB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder Avatar",
-            "number": 28,
+            "number": 29,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "At the beginning of your draw step, you may draw an additional card. If you do, mill four cards.\n{C}: {T}, You may cast target instant card from your graveyard until end of turn. If that spell would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]\nChoose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]",
+            "rules_text": "At the beginning of your draw step, you may draw an additional card. If you do, mill four cards.\n{B}: {T}, You may cast target instant card from your graveyard until end of turn. If that spell would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]\nChoose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -824,14 +824,14 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Rein, the Stark",
             "color": "WR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder Avatar",
-            "number": 32,
+            "number": 33,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "Whenever you cast a spell with mana value 4 or greater, create two 2/2 white Wolf creature tokens.\n{T}: Add {R}.\nChoose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]",
@@ -845,14 +845,14 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Ulemus, the Lost",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder Avatar",
-            "number": 35,
+            "number": 36,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Whenever you put one or more counters on target permanent you control, you may cast a noncreature spell with mana value 3 or less from your hand without paying its mana cost.\nChoose an Aspect [i](You can have an Aspect as a second commander.)[/i]",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Urz, the First",
@@ -887,7 +887,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": ""
+            "notes": "!group clearcom"
         },
         {
             "card_name": "Angmar, the Bladed",
@@ -908,7 +908,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": ""
+            "notes": "!group blackcom"
         },
         {
             "card_name": "Oloo, the United",
@@ -929,14 +929,14 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": ""
+            "notes": "!group greencom"
         },
         {
             "card_name": "Balion, the Empty",
             "color": "",
             "rarity": "special",
             "type": "Legendary Enchantment \u2014 Aspect",
-            "number": 54,
+            "number": 55,
             "color_identity": "C",
             "cost": "{5}",
             "rules_text": "If Balion, The Empty is your commander, choose a color before the game begins. Balion, The Empty is the chosen color.",
@@ -950,14 +950,14 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": ""
+            "notes": "!group clearcom"
         },
         {
             "card_name": "Seer, the Timeless",
             "color": "",
             "rarity": "special",
             "type": "Legenedary Creature \u2014 Elder Avatar",
-            "number": 55,
+            "number": 56,
             "color_identity": "C",
             "cost": "{5}",
             "rules_text": "If Seer, The Timeless is your commander, choose a color before the game begins. Seer, The Timeless is the chosen color.\nChoose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]",
@@ -971,14 +971,14 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": ""
+            "notes": "!group colorlesscom"
         },
         {
             "card_name": "Fal, the Alone",
             "color": "UR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder Avatar",
-            "number": 24,
+            "number": 25,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
             "rules_text": "Prowess\nInstant and sorcery spells you cast have rebound. [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]\nChoose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]",
@@ -992,7 +992,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Titan, the Ageless",
@@ -1013,14 +1013,14 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": ""
+            "notes": "!group greencom"
         },
         {
             "card_name": "Reise, the Headcutter",
             "color": "WR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder Avatar",
-            "number": 33,
+            "number": 34,
             "color_identity": "WR",
             "cost": "{8}{R}{W}",
             "rules_text": "This spell costs {2} less for each Equipment you control.\nAt the beginning of combat on your turn, you may attach any number of target Equipment you control to Reise.\nChoose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]",
@@ -1034,7 +1034,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Taking a Peek",
@@ -1055,7 +1055,7 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": ""
+            "notes": "!group bluenoncom"
         },
         {
             "card_name": "Otterly Adorable",
@@ -1076,14 +1076,14 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "!group bluenoncom"
         },
         {
             "card_name": "Story Tell",
             "color": "WG",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 39,
+            "number": 40,
             "color_identity": "WG",
             "cost": "{GW}",
             "rules_text": "Remove up to one lore counters from target permanent you control, then put a +1/+1 counter on target creature you control.",
@@ -1097,7 +1097,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multinoncom"
         },
         {
             "card_name": "Regrow the Wilds",
@@ -1118,7 +1118,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": ""
+            "notes": "!group greennoncom"
         },
         {
             "card_name": "Blazing Glory",
@@ -1139,16 +1139,16 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": ""
+            "notes": "!group rednoncom"
         },
         {
             "card_name": "Mers, Ghost Shot",
-            "color": "WUB",
+            "color": "WUR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Mercenary",
-            "number": 30,
-            "color_identity": "WUB",
-            "cost": "{W}{U}{B}",
+            "number": 31,
+            "color_identity": "WUR",
+            "cost": "{U}{R}{W}",
             "rules_text": "Whenever you cast a noncreature spell, create a 1/1 white Spirit creature token with flying.\nAt the beginning of each end step, if you have cast a noncreature spell, you draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
@@ -1160,17 +1160,17 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
         },
         {
             "card_name": "Hilm of the Pack",
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Beast",
-            "number": 26,
+            "number": 27,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "At the beginning of combat on your turn, create X 3/3 green Beast creature tokens, where X is the number of cards in target opponent's hand minus 2.",
+            "rules_text": "Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]\nAt the beginning of combat on your turn, create X 3/3 green Beast creature tokens, where X is the number of cards in target opponent's hand minus 3.",
             "flavor_text": "[i]Through its hunger, extinction grew near.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1181,7 +1181,28 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": ""
+            "notes": "!group multicom"
+        },
+        {
+            "card_name": "Asin of the Pack",
+            "color": "UG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Wolf Plant",
+            "number": 21,
+            "color_identity": "UG",
+            "cost": "{1}{G}{U}",
+            "rules_text": "At the beginning of your end step, starting with you, each player votes for pack or plant. If pack gets more votes, create a 4/4 blue Beast creature token. If plant gets more votes or the vote is tied, create two 1/2 green Plant creature tokens.",
+            "flavor_text": "[i]The howls of the woods sound almost alive.[/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AKI",
+            "loyalty": "",
+            "artist": "Aser Godoy de Lera",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
+            "notes": "!group multicom"
         }
     ]
 }

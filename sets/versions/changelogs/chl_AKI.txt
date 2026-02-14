@@ -1,4 +1,133 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Asin of the Pack added.
+
+
+Broken Moor
+
+Comet 76
+
+Concrete Jungle
+
+Coral Strands
+
+Dragon Waylines
+
+Dreamrow Ruins
+
+Eregion Shadow
+
+Float Mountains
+
+Fungi Canopy
+
+Jade Palace
+
+Jupiter Grounds
+
+Morningstar Crag
+
+Orian Woodlands
+
+Pure Icelands
+
+Wild Mounds
+
+Preem, the Everything
+
+Zaero, the Void
+
+Creal, the False Avatar
+
+Dreim, the Typhoon
+
+Eiren, the Stable
+
+Ganshaw, the Truth
+
+Ill' Omen, the Spirit
+rules_text: At the beginning of your upkeep, look at the top card of your library. You may reveal that card if it has a mana value of 3 of less. If you do, add {W}{B} and put it into your graveyard. If you don't reveal it, put it into your hand. => At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If you do, add {W}{B} and put it into your graveyard. If you don't reveal it, put it into your hand.
+
+Maliun, the Smog
+
+Nine, the Many
+
+Orthos, the Tempest
+
+Seergost, the Flesh
+
+Triem, the Affliction
+
+Unis, the Undisturbed
+
+Whirl, the Fierce
+
+Nashd, Preem's Carver
+cost: {2}{C}{W} => {3}{W}
+
+Curse of Betrayal
+
+Trelin, the Everwake
+
+H, the Pure
+
+Halberd, the Scorched
+
+Nidn, the Counsil
+
+Vex, the Mind
+
+Lorn, the Hunger
+
+Wia, the True Avatar
+
+Isul, the Fates
+rules_text: At the beginning of your draw step, you may draw an additional card. If you do, mill four cards.
+{C}: {T}, You may cast target instant card from your graveyard until end of turn. If that spell would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i] => At the beginning of your draw step, you may draw an additional card. If you do, mill four cards.
+{B}: {T}, You may cast target instant card from your graveyard until end of turn. If that spell would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]
+Choose an Aspect [i](You can have an Aspect as a second commander.)[/i] [i](You can have an Aspect as a second commander.)[/i]
+
+Rein, the Stark
+
+Ulemus, the Lost
+
+Urz, the First
+
+Angmar, the Bladed
+
+Oloo, the United
+
+Balion, the Empty
+
+Seer, the Timeless
+
+Fal, the Alone
+
+Titan, the Ageless
+
+Reise, the Headcutter
+
+Taking a Peek
+
+Otterly Adorable
+
+Story Tell
+
+Regrow the Wilds
+
+Blazing Glory
+
+Mers, Ghost Shot
+cost: {W}{U}{B} => {U}{R}{W}
+
+Hilm of the Pack
+rules_text: At the beginning of combat on your turn, create X 3/3 green Beast creature tokens, where X is the number of cards in target opponent's hand minus 2. => Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+At the beginning of combat on your turn, create X 3/3 green Beast creature tokens, where X is the number of cards in target opponent's hand minus 3.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Broken Moor added.
