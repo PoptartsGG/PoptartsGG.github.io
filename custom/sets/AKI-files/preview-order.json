@@ -10,5 +10,5 @@
 	{ "title": "bc", "cards":  [ "!group blackcom" ] },
 	{ "title": "rc", "cards":  [ "!group redcom" ] },
 	{ "title": "gc", "cards":  [ "!group greencom" ] },
-	{ "title": "mc", "cards":  [ "!group multiom" ] }
+	{ "title": "mc", "cards":  [ "!group multicom" ] }
 ]
