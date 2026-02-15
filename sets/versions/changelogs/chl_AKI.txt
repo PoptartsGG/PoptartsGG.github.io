@@ -1,4 +1,59 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Forest Pathways added.
+Nature Sprites added.
+Among the Tides added.
+The Sun Disc added.
+Whirlpool Mage added.
+Bladed Traveler added.
+Market Traveler added.
+
+
+Quest for the Throne
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — You may play an additional land this turn.
+III — Search your library for a land, reveal it, put it into your hand, then shuffle.
+​ => 
+I, II — You may play an additional land this turn.
+III — Search your library for a land, reveal it, put it into your hand, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — You may play an additional land this turn.
+III — Search your library for a land, reveal it, put it into your hand, then shuffle.
+​ => 
+I, II — You may play an additional land this turn.
+III — Search your library for a land, reveal it, put it into your hand, then shuffle.
+
+Becoming the Hero
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two 2/2 white Knight creature tokens.
+III — Token creatures you control get +1/+1 and gain first strike until end of turn.
+​ => 
+I, II — Create two 2/2 white Knight creature tokens.
+III — Token creatures you control get +1/+1 and gain first strike until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two 2/2 white Knight creature tokens.
+III — Token creatures you control get +1/+1 and gain first strike until end of turn.
+​ => 
+I, II — Create two 2/2 white Knight creature tokens.
+III — Token creatures you control get +1/+1 and gain first strike until end of turn.
+
+The Castle's Keep
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 white and blue Owl creature token with flying and prowess.
+III — Creatures you control gain prowess until end of turn. [i](If a creature has multiple instances of prowess, each triggers separately.)[/i]
+​ => 
+I, II — Create a 1/1 white and blue Owl creature token with flying and prowess.
+III — Creatures you control gain prowess until end of turn. [i](If a creature has multiple instances of prowess, each triggers separately.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 white and blue Owl creature token with flying and prowess.
+III — Creatures you control gain prowess until end of turn. [i](If a creature has multiple instances of prowess, each triggers separately.)[/i]
+​ => 
+I, II — Create a 1/1 white and blue Owl creature token with flying and prowess.
+III — Creatures you control gain prowess until end of turn. [i](If a creature has multiple instances of prowess, each triggers separately.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Lost in the Pages added.

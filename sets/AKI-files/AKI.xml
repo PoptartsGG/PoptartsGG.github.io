@@ -1,0 +1,1543 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>AKI</name>
+			<longname>Arkhos Imagined</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-15</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Broken Moor</name>
+			<text>({T}: Add {B} or {U}.)
+Broken Moor enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/0.png" num="62">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Comet 76</name>
+			<text>({T}: Add {C} or {W}.)
+Comet 76 enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/1.png" num="63">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Waste Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Concrete Jungle</name>
+			<text>({T}: Add {C} or {G}.)
+Concrete Jungle enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="special" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/2.png" num="87">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Waste Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Coral Strands</name>
+			<text>({T}: Add {W} or {U}.)
+Coral Strands enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/3.png" num="64">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dragon Waylines</name>
+			<text>({T}: Add {W} or {G}.)
+Dragon Waylines enter the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/4.png" num="65">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dreamrow Ruins</name>
+			<text>({T}: Add {C} or {B}.)
+Dreamrow Ruins enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/5.png" num="66">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Waste Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Eregion Shadow</name>
+			<text>({T}: Add {W} or {B}.)
+Eregion Shadow enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/6.png" num="68">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Float Mountains</name>
+			<text>({T}: Add {R} or {W}.)
+Float Mountains enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/7.png" num="71">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Moutain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fungi Canopy</name>
+			<text>({T}: Add {B} or {G}.)
+Fungi Canopy enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/8.png" num="72">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jade Palace</name>
+			<text>({T}: Add {U} or {R}.)
+Jade Palace enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/9.png" num="74">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jupiter Grounds</name>
+			<text>({T}, Add {C} or {R}.)
+Jupiter Grounds enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/10.png" num="75">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Waste Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Morningstar Crag</name>
+			<text>({T}: Add {R} or {G}.)
+Morningstar Crag enters the battlefield tapped unless you control a flooded land.
+Drown — {T}, Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/11.png" num="77">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Orian Woodlands</name>
+			<text>({T}: Add {G} or {U}.)
+Orian Woodlands enters the battlefield tapped unless you control a flooded land.
+Drown — {T}: Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/12.png" num="78">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Pure Icelands</name>
+			<text>({T}: Add {C} or {U}.)
+Pure Icelands enters the battlefield tapped unless you control a flooded land.
+Drown — {T}: Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/13.png" num="79">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Waste Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wild Mounds</name>
+			<text>({T}: Add {R} or {B}.)
+Wild Mounds enters the battlefield tapped unless you control a flooded land.
+Drown — {T}: Put a flood counter on this land.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/14.png" num="82">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Preem, the Everything</name>
+			<text>Whenever you cast an Equipment spell you may pay X , where X is that spell&apos;s mana value, if you do create X 1/1 white Wolf creature tokens. 
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/15.png" num="6">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Aspect</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zaero, the Void</name>
+			<text>{C}, Sacrifice a Permanent: You may cast an Aura from your hand with mana value X or less without paying its mana costs, where X is 2 plus the sacrificed Permanent&apos;s mana value.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/16.png" num="20">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Aspect</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creal, the False Avatar</name>
+			<text>Whenever a lore counter is put on a permanent you control, put a +1/+1 counter on up to one target creature.
+Permanents with counters on them have vigilance.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/17.png" num="35">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreim, the Typhoon</name>
+			<text>Spells you cast cost {1} less to cast.
+Creatures you control with counters on them have evolve. (Whenever a creature you control enters, if that creature has greater power or toughness than that creature, put a +1/+1 counter on that creature.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/18.png" num="36">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eiren, the Stable</name>
+			<text>Creatures you control get +1/+1 for each creature card in your graveyard.
+Sacrifice a creature: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/19.png" num="37">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ganshaw, the Truth</name>
+			<text>Whenever a creature with power 4 or greater becomes blocked, create a treasure token.
+{2}: Target creature you control must be blocked this turn if able.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/20.png" num="39">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ill&apos; Omen, the Spirit</name>
+			<text>At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If you do, add {W}{B} and put it into your graveyard. If you don&apos;t reveal it, put it into your hand.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/21.png" num="43">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maliun, the Smog</name>
+			<text>Enchant commander you control
+Whenever you cast a noncreature spell, create X 1/1 white Wolf tokens, where X is that spells mana value.
+Attacking modified creatures you control get +1/+0 and have first strike. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/22.png" num="46">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nine, the Many</name>
+			<text>Whenever you cast a spell that targets a permanent you control, you may pay {C}{U}. If you do, Create an Absolvement. (It&apos;s an enchantment Aura with &quot;Enchanted creature gets +1/+0 for each enchantment you control.&quot;) Attach it to target creature you control.
+Modified creatures you control have changeling. (Equipment, Auras you control, and counters are modifications. This card is every creature type.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/23.png" num="10">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1CU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Orthos, the Tempest</name>
+			<text>Enchant commander you control
+Modified creatures you control have prowess. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/24.png" num="48">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seergost, the Flesh</name>
+			<text>If an effect would create one or more tokens under your control, you may create that many clue tokens instead.
+{T}: Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/25.png" num="51">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Triem, the Affliction</name>
+			<text>Whenever a -1/-1 counter is put on a creature, you may put a land from your hand onto the battlefield tapped. Do this only once each turn.
+Modified creatures have wither. (Equipment, Auras you control, and counters are modifications. This deals damage to creatures in the form of -1/-1 counters.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/26.png" num="30">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unis, the Undisturbed</name>
+			<text>If you would surveil, you may instead exile an instant card from your graveyard. When do you, copy that card. You may cast the copy this turn.
+Whenever you cast a sorcery spell, you may surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/27.png" num="53">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Whirl, the Fierce</name>
+			<text>Enchant commander you control
+Other creatures you control are Dragons in addition to their other types. The same is true for creature spells you control and creature cards you own that aren&apos;t on the battlefield.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/28.png" num="55">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Aspect Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nashd, Preem&apos;s Carver</name>
+			<text>Whenever equipped creature attacks, you may reveal an Equipment card from your hand and pay its equip cost. If you do, put it onto the battlefield attached to equipped creature. 
+Equipped creature gets +5/+5
+Equip {3}</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/29.png" num="5">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Curse of Betrayal</name>
+			<text>Enchant player.
+If a nonland permanent card would be put into enchanted player&apos;s graveyard from anywhere, exile it instead.
+At the beginning of enchanted player&apos;s end step, put all cards exiled with Curse of Betrayal onto the battlefield under your control.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/30.png" num="18">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trelin, the Everwake</name>
+			<text>Spells you cast have bargain. (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Whenever you a spell, if it was bargained, Add: {B}.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/31.png" num="19">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>H, the Pure</name>
+			<text>Whenever a creature you control with power greater than its base power enters, you may exile a card from your hand, if you do draw two cards. Do this only once per turn.
+Creature tokens you control get +1/+1 for each card you own in exile.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/32.png" num="4">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Halberd, the Scorched</name>
+			<text>Enchant commander you control
+Enchanted creature gets +2/+0 and has &quot;Whenever enchanted creature attacks, exile the top two card of your library, you may play them for as long as they are exiled.&quot;</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/33.png" num="22">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nidn, the Counsil</name>
+			<text>[+2]: Choose a creature type. Draw a card for each permanent you control of that type.
+[0]: Create a 1/1 colorless Shapeshifter creature token with Changeling (This card is every creature type.)
+[-1]: Exile target multicolored permanent.
+Nidn, The Counsil can be your commander.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/34.png" num="1">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Nidn</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vex, the Mind</name>
+			<text>You may look at the top card of your library at any time.
+You may play the top card of your library by tapping two untapped permanent in addition to paying its other costs.
+Choose an Aspect (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/35.png" num="14">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lorn, the Hunger</name>
+			<text>When Lorn, The Hunger enters the battlefield, exile the top X cards of your library, you may cast them for as long as they are exiled.
+Whenever you cast a spell from anywhere other than your hand, create a treasure token.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/36.png" num="23">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>X1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wia, the True Avatar</name>
+			<text>At the beginning of your upkeep, you may remove a lore counter from any number of permanents. If you do, put X +1/+1 counters on target creature, where X is the number of lore counters removed this way.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/37.png" num="56">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Isul, the Fates</name>
+			<text>At the beginning of your draw step, you may draw an additional card. If you do, mill four cards.
+{B}: {T}, You may cast target instant card from your graveyard until end of turn. If that spell would be put into your graveyard, exile it instead. (You still pay its costs. Timing rules still apply.)
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/38.png" num="44">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rein, the Stark</name>
+			<text>Whenever you cast a spell with mana value 4 or greater, create two 2/2 white Wolf creature tokens.
+{T}: Add {R}.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/39.png" num="49">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulemus, the Lost</name>
+			<text>Whenever you put one or more counters on target permanent you control, you may cast a noncreature spell with mana value 3 or less from your hand without paying its mana cost.
+Choose an Aspect (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/40.png" num="52">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urz, the First</name>
+			<text>At the beginning of your combat phase, up to three target artifacts you control become 4/4 artifact creatures.
+Artifact spells you control have evoke {2}. (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/41.png" num="2">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angmar, the Bladed</name>
+			<text>When Angmar, The Bladed enters the battlefield, sacrifice any number of permanents, then create that many treasure tokens.
+Whenever a player sacrifices a token, you add {B}.
+Choose an Aspect (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/42.png" num="16">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oloo, the United</name>
+			<text>At the beginning of your end step, you may remove two +1/+1 counters from target permanent you control. If you do, create two 1/1 green Ooze creature tokens.
+{T}: Sacrifice a creature token, put X +1/+1 counters on target creature, where X is the sacrificed token&apos;s power.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/43.png" num="26">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Balion, the Empty</name>
+			<text>If Balion, The Empty is your commander, choose a color before the game begins. Balion, The Empty is the chosen color.</text>
+			<set rarity="special" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/44.png" num="85">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aspect</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seer, the Timeless</name>
+			<text>If Seer, The Timeless is your commander, choose a color before the game begins. Seer, The Timeless is the chosen color.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="special" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/45.png" num="86">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legenedary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fal, the Alone</name>
+			<text>Prowess
+Instant and sorcery spells you cast have rebound. (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/46.png" num="38">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Titan, the Ageless</name>
+			<text>This spell cost {1} less for each creature you control with power 4 or greater.
+Attacking creatures you control that have power 4 or greater get +3/+3 until end of turn.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/47.png" num="29">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>8G</manacost>
+				<cmc>9</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reise, the Headcutter</name>
+			<text>This spell costs {2} less for each Equipment you control.
+At the beginning of combat on your turn, you may attach any number of target Equipment you control to Reise.
+Choose an Aspect (You can have an Aspect as a second commander.) (You can have an Aspect as a second commander.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/48.png" num="50">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>8RW</manacost>
+				<cmc>10</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Taking a Peek</name>
+			<text>Demonstrate. (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it.)
+Scry 2, then draw a card.</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/49.png" num="13">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Otterly Adorable</name>
+			<text>Create a 1/1 blue and red Otter creature token with prowess. Scry 1</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/50.png" num="12">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost in the Pages</name>
+			<text>Remove up to one lore counters from target permanent you control, then put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/51.png" num="59">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Regrow the Wilds</name>
+			<text>Put a +1/+1 counter on target creature you control. It gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/52.png" num="28">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blazing Glory</name>
+			<text>As an additional cost to cast this spell, you may discard a card.
+Blazing Glory deals 2 damage to target creature or player. If the additional cost was paid, create a Treasure token.</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/53.png" num="21">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lomme, Ghost Shot</name>
+			<text>Whenever you cast a noncreature spell, create a 1/1 white Spirit creature token with flying.
+At the beginning of each end step, if you have cast a noncreature spell, you draw a card.</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/54.png" num="45">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hilm of the Pack</name>
+			<text>Devour 2 (As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)
+At the beginning of combat on your turn, create X 3/3 green Beast creature tokens, where X is the number of cards in target opponent&apos;s hand minus 3.</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/55.png" num="41">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asin of the Pack</name>
+			<text>At the beginning of your end step, starting with you, each player votes for pack or plant. If pack gets more votes, create a 4/4 blue Beast creature token. If plant gets more votes or the vote is tied, create two 1/2 green Plant creature tokens.</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/56.png" num="31">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quest for the Throne</name>
+			<text>I, II — You may play an additional land this turn.
+III — Search your library for a land, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/57.png" num="27">AKI</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Becoming the Hero</name>
+			<text>I, II — Create two 2/2 white Knight creature tokens.
+III — Token creatures you control get +1/+1 and gain first strike until end of turn.</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/58.png" num="3">AKI</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>History of a Hero</name>
+			<text>(As this Saga enters and after you draw step, add a lore counter.)
+I, II — Put a +1/+1 counter on target creature you control. It gains trample until end of turn.
+III — Exile this Saga then return it to the battlefield transformed under your control.
+---
+(Back): Young Hero, Yalin</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/59_front.png" num="42a">AKI</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Young Hero, Yalin</related>
+		</card>
+		<card>
+			<name>Young Hero, Yalin</name>
+			<text>Trample
+During your turn, this creature has first strike.
+---
+(Front): History of a Hero</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/59_back.png" num="42b">AKI</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">History of a Hero</related>
+		</card>
+		<card>
+			<name>The Castle&apos;s Keep</name>
+			<text>I, II — Create a 1/1 white and blue Owl creature token with flying and prowess.
+III — Creatures you control gain prowess until end of turn. (If a creature has multiple instances of prowess, each triggers separately.)</text>
+			<set rarity="uncommon" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/60.png" num="33">AKI</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Creal Cultists</name>
+			<text>This spell costs {1} less to cast for each lore counter among permanents you control.
+Saga spells you cast cost {1} less to cast for each +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/61.png" num="34">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creal&apos;s Throne</name>
+			<text>({T}: Add {G} or {W}.)
+This land enters tapped with a lore counter on it.)</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/62.png" num="84">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Malor Banzil</name>
+			<text>Vigilance
+Whenever you cast a spell, create a 1/1 white Monk with verbal. (Whenever you put one or more counters on a noncreature permanent you control, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/63.png" num="47">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Airus Capital City</name>
+			<text>({T}: Add {R}, {W}, or {B}.)
+Airus Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/64.png" num="60">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Drume Fortress</name>
+			<text>({T}: Add {W}, {B}, or {G}.)
+Drume Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/65.png" num="67">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lomme Borders</name>
+			<text>({T}: Add {W}, {U}, or {B}.)
+Lome Borders enters the battlefield tapped
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/66.png" num="76">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wimex Remnants</name>
+			<text>({T}: Add {G}, {U}, or {R}.)
+Wimex Remnants enters the battlefield tapped
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/67.png" num="83">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Falken Cliffs</name>
+			<text>({T}: Add {R}, {G}, or {W}.)
+Falken Cliffs enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/68.png" num="69">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Totems of Inkmore</name>
+			<text>({T}: Add {B}, {G}, or {U}.)
+Totems of Inkmore enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/69.png" num="80">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Faum Ghost City</name>
+			<text>({T}: Add {U}, {R}, or {W}.)
+Faum Ghost City enters the battlefield tapped
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/70.png" num="70">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ganesh Ritual</name>
+			<text>({T}: Add {U}, {B}, or {R}.)
+Ganesh Ritual enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/71.png" num="73">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Banzil Home</name>
+			<text>({T}: Add {G}, {W}, or {U}.)
+Banzil Home enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/72.png" num="61">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Veel&apos;s Entrance</name>
+			<text>({T}: Add {B}, {R}, or {G}.)
+Veels Entrance enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/73.png" num="81">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glase Airus</name>
+			<text>First strike, Vigilance
+Creature spells you cast have affinity for equipment. (This spell costs {1} less to cast for each equipment. you control.)
+Equipment you control have equip Legendary {0}.</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/74.png" num="40">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2RWB</manacost>
+				<cmc>5</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wimex Beast</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever you cast a creature spell, you may draw a card.
+Whenever you cast a noncreature spell, put up to one +1/+1 counter on target creature.</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/75.png" num="58">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>1GUR</manacost>
+				<cmc>4</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wicha Inkmore</name>
+			<text>If you would mill one or more cards, you mill that many plus 2 instead.
+At the beginning of end step, create X 1/1 black Snake creature tokens, where X is the number of cards milled this turn.
+{2}, {T}: Mill two cards.</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/76.png" num="57">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whirl Agent</name>
+			<text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/77.png" num="54">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baroness Faum</name>
+			<text>When Baroness Faum enters the battlefield, create three 1/1 colorless Drone artifact creature tokens with flying.
+{2}: Target noncreature artifact becomes a 1/1 Monk artifact creature with melee. (Whenever that creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</text>
+			<set rarity="mythic" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/78.png" num="32">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Djinn Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Original Reflection</name>
+			<text>Create a token that&apos;s a copy of target creature, except it&apos;s a 2/2 blue Spirit.</text>
+			<set rarity="uncommon" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/79.png" num="11">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forest Pathways</name>
+			<text>At the beginning of each opponent&apos;s first main phase, they may have you draw a card. If they do they add {G}{G}.
+At the beginning of your first main phase add {G}{G}.</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/80.png" num="25">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nature Sprites</name>
+			<text>{T}, Mill a card: Add {U}. Spend this mana only to cast Wizard or Spirit spells. (To mill a cards, put the top card of your library into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/81.png" num="9">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Among the Tides</name>
+			<text>Draw two cards, then discard one card. Untap up to two lands.</text>
+			<set rarity="uncommon" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/82.png" num="8">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Sun Disc</name>
+			<text>When The Sun Disc enters the battlefield, exile target nonland permanent an opponent controls until The Sun Disc leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/83.png" num="7">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Whirlpool Mage</name>
+			<text>Whenever you cast your first instant or sorcery spell each turn, create a 1/1 red and blue Otter creature token with prowess.</text>
+			<set rarity="uncommon" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/84.png" num="15">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Otter Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bladed Traveler</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When Bladed Traveler enters the battlefield, if it was bargained, create a 1/1 black Rat creature token with deathtouch.</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/85.png" num="17">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Market Traveler</name>
+			<text>When Market Traveler enters the battlefield, exile the top card of your library, you may play that card for as long as it remains exiled.</text>
+			<set rarity="common" picurl="https://PoptartsGG.github.io/sets/AKI-files/img/86.png" num="24">AKI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
