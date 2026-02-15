@@ -1,4 +1,45 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Lost in the Pages added.
+Lomme, Ghost Shot added.
+Quest for the Throne added.
+Becoming the Hero added.
+History of a Hero added.
+The Castle's Keep added.
+Creal Cultists added.
+Creal's Throne added.
+Malor Banzil added.
+Airus Capital City added.
+Drume Fortress added.
+Lomme Borders added.
+Wimex Remnants added.
+Falken Cliffs added.
+Totems of Inkmore added.
+Faum Ghost City added.
+Ganesh Ritual added.
+Banzil Home added.
+Veel's Entrance added.
+Glase Airus added.
+Wimex Beast added.
+Wicha Inkmore added.
+Whirl Agent added.
+Baroness Faum added.
+Original Reflection added.
+
+Story Tell removed.
+Mers, Ghost Shot removed.
+
+Taking a Peek
+
+Otterly Adorable
+
+Regrow the Wilds
+
+Blazing Glory
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Asin of the Pack added.
